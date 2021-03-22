@@ -1,6 +1,6 @@
 import React from 'react'
 import { HashRouter as Router, Switch, Route } from 'react-router-dom'
-import './App.css';
+// import './App.css';
 import './assets/styles/styles.scss';
 import Footer from './cmps/Footer.jsx'
 import  Header  from './cmps/Header'
