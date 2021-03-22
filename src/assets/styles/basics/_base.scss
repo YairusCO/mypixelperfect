@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+::selection {
+    background-color: $clr1;
+    color: $clr6;
+}
+
+html {
+    font-family: 'spartan', sans-serif;
+    line-height: 1.6;
+    color: $clr6;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'spartan-bold', sans-serif;
+    margin: 0 0 0.4em;
+    line-height: 0.9;
+}
+
+h1 {
+    font-size: rem(68px);
+}
+h2 {
+    font-size: rem(40px);
+    line-height: rem(56px);
+}
+h3 {
+    font-size: rem(18px);
+    font-family: 'spartan', sans-serif;
+    line-height: rem(28px);
+}
+
+p {
+    margin: 0 0 2em;
+}
+
+hr{
+    border: 1px solid #979797;
+ }
