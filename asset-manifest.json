@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mypixelperfect/static/css/main.ffb30c31.chunk.css",
-    "main.js": "/mypixelperfect/static/js/main.143a8f5d.chunk.js",
-    "main.js.map": "/mypixelperfect/static/js/main.143a8f5d.chunk.js.map",
-    "runtime-main.js": "/mypixelperfect/static/js/runtime-main.114b923d.js",
-    "runtime-main.js.map": "/mypixelperfect/static/js/runtime-main.114b923d.js.map",
-    "static/js/2.fd1ff744.chunk.js": "/mypixelperfect/static/js/2.fd1ff744.chunk.js",
-    "static/js/2.fd1ff744.chunk.js.map": "/mypixelperfect/static/js/2.fd1ff744.chunk.js.map",
-    "static/js/3.78b282c3.chunk.js": "/mypixelperfect/static/js/3.78b282c3.chunk.js",
-    "static/js/3.78b282c3.chunk.js.map": "/mypixelperfect/static/js/3.78b282c3.chunk.js.map",
+    "main.css": "/mypixelperfect/static/css/main.eca99779.chunk.css",
+    "main.js": "/mypixelperfect/static/js/main.4bc3d0b6.chunk.js",
+    "main.js.map": "/mypixelperfect/static/js/main.4bc3d0b6.chunk.js.map",
+    "runtime-main.js": "/mypixelperfect/static/js/runtime-main.8679e34b.js",
+    "runtime-main.js.map": "/mypixelperfect/static/js/runtime-main.8679e34b.js.map",
+    "static/js/2.e9eb1457.chunk.js": "/mypixelperfect/static/js/2.e9eb1457.chunk.js",
+    "static/js/2.e9eb1457.chunk.js.map": "/mypixelperfect/static/js/2.e9eb1457.chunk.js.map",
+    "static/js/3.9250f63f.chunk.js": "/mypixelperfect/static/js/3.9250f63f.chunk.js",
+    "static/js/3.9250f63f.chunk.js.map": "/mypixelperfect/static/js/3.9250f63f.chunk.js.map",
     "index.html": "/mypixelperfect/index.html",
-    "static/css/main.ffb30c31.chunk.css.map": "/mypixelperfect/static/css/main.ffb30c31.chunk.css.map",
-    "static/js/2.fd1ff744.chunk.js.LICENSE.txt": "/mypixelperfect/static/js/2.fd1ff744.chunk.js.LICENSE.txt",
+    "static/css/main.eca99779.chunk.css.map": "/mypixelperfect/static/css/main.eca99779.chunk.css.map",
+    "static/js/2.e9eb1457.chunk.js.LICENSE.txt": "/mypixelperfect/static/js/2.e9eb1457.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/mypixelperfect/static/media/Spartan-Regular.01633446.ttf",
     "static/media/menu-item1.7bd94a87.jpg": "/mypixelperfect/static/media/menu-item1.7bd94a87.jpg",
     "static/media/menu-item2.81249e77.jpg": "/mypixelperfect/static/media/menu-item2.81249e77.jpg",
     "static/media/menu-item3.22eddbf1.jpg": "/mypixelperfect/static/media/menu-item3.22eddbf1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.114b923d.js",
-    "static/js/2.fd1ff744.chunk.js",
-    "static/css/main.ffb30c31.chunk.css",
-    "static/js/main.143a8f5d.chunk.js"
+    "static/js/runtime-main.8679e34b.js",
+    "static/js/2.e9eb1457.chunk.js",
+    "static/css/main.eca99779.chunk.css",
+    "static/js/main.4bc3d0b6.chunk.js"
   ]
 }
